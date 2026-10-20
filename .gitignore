@@ -1,0 +1,16 @@
+# Environment / secrets
+.env
+*.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# OS
+.DS_Store
